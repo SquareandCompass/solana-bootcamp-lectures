@@ -9,7 +9,7 @@ publish = false
 
 [dependencies]
 authorized_counter = {path="../authorized_counter", features=["no-entrypoint"]}
-borsh = "0.9"
+borsh = "1.5"
 solana-program = "=1.9.1"
 thiserror = "1.0"
 
